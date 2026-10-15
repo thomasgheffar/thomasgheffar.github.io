@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thomasgheffar.com/sitemap.xml
